@@ -1,0 +1,18 @@
+*{
+    margin: 2px;
+    padding: 0px;
+}
+
+body{
+    background-color: peru;
+    border: 2px solid saddlebrown;
+    font-size: 25px;
+}
+.container{
+    background-color: palevioletred;
+    width: 600px;
+    padding: 25px;
+    margin: 50px auto;
+    box-shadow: 2px 1px 3px 6px;
+
+}
